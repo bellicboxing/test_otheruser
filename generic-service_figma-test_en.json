@@ -1,0 +1,38 @@
+{
+    "pivot_mails.autobilling_completed.subject1": {
+        "string": "Lonny c'est le roi",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.hi": {
+        "string": "Hi %Primary Admin Name%, \n\nYou can find all the details about your auto-billing process from the Auto-billing History page.",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.goto": {
+        "string": "Go to Auto-billing History page",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.questions": {
+        "string": "Auto-billing problems?\nTell us, we are here to help!",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.thanks": {
+        "string": "Thanks",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.signature": {
+        "string": "vcita Team",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    }
+}
