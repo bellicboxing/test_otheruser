@@ -1,0 +1,38 @@
+{
+    "pivot_mails.autobilling_completed.subject1": {
+        "string": "“MEGA is our hands-down winner for free cloud storage and backup. If this Kiwi company’s 50 GB of free storage isn’t enough for your business needs, they offer four more tiers of service, with plans from 200 GB to 8TB, all available for less than US$25 per month.”",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.hi": {
+        "string": "Hi %Primary Admin Name%, \n\nYou can find all the details about your auto-billing process from the Auto-billing History page.",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.goto": {
+        "string": "Go to Auto-billing History page",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.questions": {
+        "string": "Auto-billing problems?\nTell us, we are here to help!",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.thanks": {
+        "string": "Thanks US$25",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    },
+    "pivot_mails.autobilling_completed.signature": {
+        "string": "vcita Team",
+        "context": "",
+        "developer_comment": "Pushed from Figma",
+        "character_limit": null
+    }
+}
